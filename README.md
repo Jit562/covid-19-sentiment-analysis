@@ -13,7 +13,7 @@ Opinion words are also known as polarity words, sentiment words, opinion lexicon
 
 After reading the dataset which contains 41k Covid 19 reviews from Coronavirus Tweet Analysis, we see that there are three prominent columns. One being TEXT which contains the criticism and the other being LABEL which contains the O’s a 1’s and 2's, where 0-NEGATIVE , 1-POSITIVE and 2-Neutral.
 
-# Column Details :-
+# Columns Details :-
 
 Username: Tweet on covid sentiment user
 
