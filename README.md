@@ -15,15 +15,16 @@ After reading the dataset which contains 41k Covid 19 reviews from Coronavirus T
 
 # Columns Details :-
 
-Username: Tweet on covid sentiment user
+**Username:** Tweet on covid sentiment user
 
-ScreenName: Tweet on covid sentiment Screen
+**ScreenName:** Tweet on covid sentiment Screen
 
-Location: Country name and city
+**Location:** Country name and city
 
-TweetAt: Date and time Tweet
+**TweetAt:** Date and time Tweet
 
-OriginalTweet: The user thought tweet about the covid
+**OriginalTweet:** The user thought tweet about the covid
 
-Sentiment: Positive, Negetive, Neutral ( Which type of tweet through user )
+**Sentiment:** Positive, Negetive, Neutral ( Which type of tweet through user )
+
 
